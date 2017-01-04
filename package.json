@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "weatherAppForFun",
+  "main": "app.js",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exia101/weatherapp.git"
+  },
+  "author": "PratikGiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exia101/weatherapp/issues"
+  },
+  "homepage": "https://github.com/Exia101/weatherapp#readme"
+}
